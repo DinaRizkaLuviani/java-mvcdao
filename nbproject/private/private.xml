@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/View/FormBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Controller/ControllerBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/TabelModelBarangStok.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/Barang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/View/FormCustomer.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/User.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAO/DAOBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAOInterface/IDAOPemesanan.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAO/DAOCustomer.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/TabelModelBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAOInterface/IDAOBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Controller/ControllerUser.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAO/DAOUser.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAOInterface/IDAOUser.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/Pemesanan.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Controller/ControllerCustomer.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/View/Dashboard.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/View/FormTabelBarangbyStok.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Controller/ControllerPemesanan.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/DAO/DAOPemesanan.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/View/FormLogin.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/View/FormPemesanan.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/TabelModelCustomer.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/SEMESTER%204%20-%20semoga%20waras%20sampai%20akhir/PBO/Projek/src/Model/Customer.java</file>
+        </group>
+    </open-files>
+</project-private>
